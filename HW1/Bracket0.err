@@ -1,0 +1,35 @@
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       02:04:29
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       02:05:34
+
+ *** ERROR ***                           CP =       6.844   TIME= 02:11:31
+ Unable to create primitive with 0 width.  BLC4 command is ignored.      
+
+ *** ERROR ***                           CP =       7.062   TIME= 02:11:35
+ Unable to create primitive with 0 width.  BLC4 command is ignored.      
+
+ *** ERROR ***                           CP =       7.328   TIME= 02:11:46
+ Unable to create primitive with 0 width.  BLC4 command is ignored.      
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       02:17:22
+
+ *** ERROR ***                           CP =      11.922   TIME= 02:28:58
+ Area list to be operated on is empty.                                   
+
+ *** ERROR ***                           CP =      12.297   TIME= 02:29:17
+ Area list to be subtracted is empty.                                    
+
+ *** WARNING ***                         CP =      20.250   TIME= 02:35:36
+ The requested S data is not available.  The PLNSOL command is ignored.  
+
+ *** WARNING ***                         CP =      20.844   TIME= 02:35:53
+ The requested S data is not available.  The PLNSOL command is ignored.  
+
+ *** WARNING ***                         CP =      22.094   TIME= 02:36:18
+ The requested S data is not available.  The PLNSOL command is ignored.  
+
+ *** WARNING ***                         CP =      22.375   TIME= 02:36:54
+ OUTRES is not a recognized POST1 command, abbreviation, or macro.       
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      22.578   TIME= 02:37:14
+ OUTRES is not a recognized POST1 command, abbreviation, or macro.       
+  This command will be ignored.                                          

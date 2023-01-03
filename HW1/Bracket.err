@@ -1,0 +1,31 @@
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       02:39:34
+
+ *** WARNING ***                         CP =       2.984   TIME= 02:40:20
+ The requested S data is not available.  The PLNSOL command is ignored.  
+
+ *** WARNING ***                         CP =       3.297   TIME= 02:40:34
+ OUTRES is not a recognized POST1 command, abbreviation, or macro.       
+  This command will be ignored.                                          
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       4.969   TIME= 02:41:37
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       02:43:08
+
+ *** WARNING ***                         CP =       3.297   TIME= 02:43:49
+ The requested S data is not available.  The PRNSOL command is ignored.  
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       22:58:16
+
+ *** ERROR ***                           CP =       2.297   TIME= 22:58:40
+ There are no nodes defined.                                             
+
+ *** ERROR ***                           CP =       9.781   TIME= 23:06:26
+ The input areas do not meet the conditions required for the AGLU        
+ operation.  No new entities were created.  The AOVLAP operation is a    
+ possible alternative.                                                   
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       23:14:06
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       23:14:18
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       23:14:34
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       23:15:03
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       20:47:15
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       20:48:43

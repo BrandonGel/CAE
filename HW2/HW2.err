@@ -1,0 +1,48 @@
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       06:20:18
+
+ *** ERROR ***                           CP =       8.312   TIME= 06:28:58
+ This function requires defined nodes.                                   
+  No nodes are currently defined.                                        
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       06:31:17
+
+ *** WARNING ***                         CP =       9.188   TIME= 06:45:07
+ The location 0 is outside the range of 1 to 9999.  The ETABLE command   
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =       9.312   TIME= 06:45:10
+ The location 0 is outside the range of 1 to 9999.  The ETABLE command   
+ is ignored.                                                             
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       06:48:52
+
+ *** WARNING ***                         CP =       3.469   TIME= 06:51:01
+ No data is available for the selected model or data location            
+ specifications.                                                         
+
+ *** WARNING ***                         CP =       3.500   TIME= 06:51:01
+ No data is available for the selected model or data location            
+ specifications.                                                         
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       07:12:49
+
+ *** ERROR ***                           CP =       9.656   TIME= 17:30:24
+ Element 1 using isotropic material 1 has a value of Poisson's ratio of  
+ 1 which must be greater than -1.0 and less than 0.5.                    
+
+ *** ERROR ***                           CP =       9.734   TIME= 17:30:28
+ The step data was checked and there were errors found.                  
+  Please check output or errors file (                                   
+ C:\Users\brand\Documents\CAE\HW2\HW2.err ) for messages.                
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       22:33:17
+
+ *** WARNING ***                         CP =       2.250   TIME= 22:33:38
+ The current solution may have been produced using different model or    
+ boundary condition data than is currently stored.  POST1 results may    
+ be erroneous unless you perform a new solution using the stored data.   
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       23:25:30
+
+ *** WARNING ***                         CP =       3.641   TIME= 23:26:41
+ The location 0 is outside the range of 1 to 9999.  The ETABLE command   
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =       3.734   TIME= 23:26:42
+ The location 0 is outside the range of 1 to 9999.  The ETABLE command   
+ is ignored.                                                             

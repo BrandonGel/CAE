@@ -1,0 +1,191 @@
+
+ ANSYS Academic Teaching Introductory              
+
+
+ *------------------------------------------------------------------*
+ |                                                                  |
+ |   W E L C O M E   T O   T H E   A N S Y S (R)  P R O G R A M     |
+ |                                                                  |
+ *------------------------------------------------------------------*
+
+
+
+
+ ***************************************************************
+ *            ANSYS 2020 R2          LEGAL NOTICES             *
+ ***************************************************************
+ *                                                             *
+ * Copyright 1971-2020 ANSYS, Inc.  All rights reserved.       *
+ * Unauthorized use, distribution or duplication is            *
+ * prohibited.                                                 *
+ *                                                             *
+ * Ansys is a registered trademark of ANSYS, Inc. or its       *
+ * subsidiaries in the United States or other countries.       *
+ * See the ANSYS, Inc. online documentation or the ANSYS, Inc. *
+ * documentation CD or online help for the complete Legal      *
+ * Notice.                                                     *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * THIS ANSYS SOFTWARE PRODUCT AND PROGRAM DOCUMENTATION       *
+ * INCLUDE TRADE SECRETS AND CONFIDENTIAL AND PROPRIETARY      *
+ * PRODUCTS OF ANSYS, INC., ITS SUBSIDIARIES, OR LICENSORS.    *
+ * The software products and documentation are furnished by    *
+ * ANSYS, Inc. or its subsidiaries under a software license    *
+ * agreement that contains provisions concerning               *
+ * non-disclosure, copying, length and nature of use,          *
+ * compliance with exporting laws, warranties, disclaimers,    *
+ * limitations of liability, and remedies, and other           *
+ * provisions.  The software products and documentation may be *
+ * used, disclosed, transferred, or copied only in accordance  *
+ * with the terms and conditions of that software license      *
+ * agreement.                                                  *
+ *                                                             *
+ * ANSYS, Inc. is a UL registered                              *
+ * ISO 9001:2015 company.                                      *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * This product is subject to U.S. laws governing export and   *
+ * re-export.                                                  *
+ *                                                             *
+ * For U.S. Government users, except as specifically granted   *
+ * by the ANSYS, Inc. software license agreement, the use,     *
+ * duplication, or disclosure by the United States Government  *
+ * is subject to restrictions stated in the ANSYS, Inc.        *
+ * software license agreement and FAR 12.212 (for non-DOD      *
+ * licenses).                                                  *
+ *                                                             *
+ ***************************************************************
+
+ 2020 R2 
+     
+ Point Releases and Patches installed:   
+     
+ Academic Student 2020 R2
+ Aqwa 2020 R2
+ EnSight 2020 R2 
+ FENSAP-ICE 2020 R2  
+
+
+          *****  ANSYS COMMAND LINE ARGUMENTS  *****
+  INITIAL JOBNAME              = Bracket                                                                                                                                                                                                                                                 
+  DISTRIBUTED MEMORY PARALLEL REQUESTED
+       2 PARALLEL PROCESSES REQUESTED WITH SINGLE THREAD PER PROCESS
+    TOTAL OF     2 CORES REQUESTED
+  MPI OPTION                   = INTELMPI
+  START-UP FILE MODE           = READ  
+  STOP FILE MODE               = READ  
+  MODEL FILE NAME              = C:\Users\brand\Documents\CAE\HW1\Bracket.dbb                                                                                                                                                                                                                        
+  GRAPHICS DEVICE REQUESTED    = win32   
+  GRAPHICAL ENTRY              = YES   
+  LANGUAGE                     = en-us               
+  INITIAL DIRECTORY = C:\Users\brand\Documents\CAE\HW1
+
+ RELEASE= 2020 R2              BUILD= 20.2      UP20200601   VERSION=WINDOWS x64 
+ CURRENT JOBNAME=Bracket1  02:17:30  SEP 19, 2020 CP=      8.453
+
+
+ RESUME ANSYS DATA FROM FILE NAME=C:\Users\brand\Documents\CAE\HW1\Bracket.dbb                                                                                                                                                                                                                        
+
+ *** ANSYS GLOBAL STATUS *** 
+
+ TITLE = Bracket                                                               
+ NUMBER OF ELEMENT TYPES =      1
+         0 ELEMENTS CURRENTLY SELECTED.  MAX ELEMENT NUMBER =           0
+         0 NODES CURRENTLY SELECTED.     MAX NODE NUMBER =              0
+ MAXIMUM LINEAR PROPERTY NUMBER        =       1
+ MAXIMUM REAL CONSTANT SET NUMBER      =       1
+ ACTIVE COORDINATE SYSTEM              =       0  (CARTESIAN)  
+
+ INITIAL JOBNAME = Bracket1
+ CURRENT JOBNAME = Bracket1
+
+ *****  ANSYS SOLUTION ROUTINE  *****
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =         8.641
+
+
+
+ *****  ANSYS SOLUTION ROUTINE  *****
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =         8.641
+
+
+
+ *****  ANSYS SOLUTION ROUTINE  *****
+
+ PRINTOUT RESUMED BY /GOP
+
+ PRINTOUT RESUMED BY /GOP
+
+ PRINTOUT RESUMED BY /GOP
+
+
+  Local memory allocated for solver              =      2.300 MB
+  Local memory required for in-core solution     =      2.221 MB
+  Local memory required for out-of-core solution =      1.617 MB
+
+ *** NOTE ***                            CP =       8.719   TIME= 02:34:13
+ The Distributed Sparse Matrix Solver is currently running in the        
+ in-core memory mode.  This memory mode uses the most amount of memory   
+ in order to avoid using the hard drive as much as possible, which most  
+ often results in the fastest solution time.  This mode is recommended   
+ if enough physical memory is present to accommodate all of the solver   
+ data.                                                                   
+
+   *** ELEMENT RESULT CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1       628  PLANE183      0.031   0.000050
+
+   *** NODAL LOAD CALCULATION TIMES
+     TYPE    NUMBER   ENAME      TOTAL CP  AVE CP
+
+        1       628  PLANE183      0.000   0.000000
+ *** LOAD STEP     1   SUBSTEP     1  COMPLETED.    CUM ITER =      1
+ *** TIME =   1.00000         TIME INC =   1.00000      NEW TRIANG MATRIX
+
+
+ *** ANSYS BINARY FILE STATISTICS
+  BUFFER SIZE USED= 16384
+        0.500 MB WRITTEN ON ASSEMBLED MATRIX FILE: Bracket1.full
+        0.562 MB WRITTEN ON RESULTS FILE: Bracket1.rst
+
+ FINISH SOLUTION PROCESSING
+
+
+ ***** ROUTINE COMPLETED *****  CP =         8.906
+
+
+
+
+ NUMBER OF WARNING MESSAGES ENCOUNTERED=          0
+ NUMBER OF ERROR   MESSAGES ENCOUNTERED=          2
+
+
+ *---------------------------------------------------------------------------*
+ |                                                                           |
+ |                       DISTRIBUTED ANSYS RUN COMPLETED                     |
+ |                                                                           |
+ |---------------------------------------------------------------------------|
+ |                                                                           |
+ | Ansys 2020 R2               Build 20.2         UP20200601     WINDOWS x64 |
+ |                                                                           |
+ |---------------------------------------------------------------------------|
+ |                                                                           |
+ | Database Requested(-db)     1 MB    Scratch Memory Requested      1024 MB |
+ | Maximum Database Used       1 MB    Maximum Scratch Memory Used     42 MB |
+ |                                                                           |
+ |---------------------------------------------------------------------------|
+ |                                                                           |
+ |        CP Time      (sec) =          9.031       Time  =  02:38:17        |
+ |        Elapsed Time (sec) =       1265.000       Date  =  09/19/2020      |
+ |                                                                           |
+ *---------------------------------------------------------------------------*

@@ -1,0 +1,17 @@
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       20:23:00
+
+ *** WARNING ***                         CP =      12.969   TIME= 20:41:48
+ The current solution may have been produced using different model or    
+ boundary condition data than is currently stored.  POST1 results may    
+ be erroneous unless you perform a new solution using the stored data.   
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       20:42:45
+
+ *** ERROR ***                           CP =       7.969   TIME= 20:48:33
+ This function requires defined lines.                                   
+  No lines are currently defined.                                        
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       20:49:42
+
+ *** WARNING ***                         CP =       4.594   TIME= 20:52:57
+ No valid degree of freedom labels were input.  The D command is         
+ ignored.                                                                
+/COM,ANSYS RELEASE 2020 R2           BUILD 20.2      UP20200601       20:54:45
